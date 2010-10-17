@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<name>Civ5</name>
+	<url>http://www.gomitech.com</url>
+	<author>Leif Högberg</author>
+	<authorurl>http://www.gomitech.com</authorurl>
+	<version>1.0</version>
+	<description>Displays how much time you've wast... spent playing Civilization V.</description>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<copyright>2010</copyright>
+</plugin>
